@@ -1,11 +1,11 @@
 .header {
   height: 200px;
-  background-color: #00cc99;
+  background-color: #336b5d;
 }
 
 .footer {
   height: 200px;
-  background-color: #00cc99;
+  background-color: #cc4100;
 }
 
 .box {
@@ -21,6 +21,6 @@
 }
 .box:hover {
   width: 200px;
-  background-color: #00cc99;
+  background-color: #161eac;
 }
 /*# sourceMappingURL=all.css.map */
